@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Mooney Server</title>
+  <meta name="description" content="Personal website for Brian Mooney" />
+  <meta name="keywords" content="java, blog, mooney, automation" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <!-- modernizr enables HTML5 elements and feature detects -->
+  <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+</head>
+
+<body>
+  <div id="main">
+    
+    <!-- Header Section -->
+    <header>
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <h1><a href="index.html">Mooney<span class="logo_divider_colour"> {: </span>
+		<span class="logo_colour">Server</span>
+	      </a>
+ 	  </h1>
+          <h2>Blog, Experiment and Family Happiness</h2>
+        </div>
+      </div>
+      <nav>
+        <ul class="sf-menu" id="nav">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="family.html">Family</a></li>
+          <li><a href="photography.html">Photography</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="accounts.html">Accounts</a></li>
+          <li><a>Projects</a>
+            <ul>
+              <li><a href="#"></a></li>
+              <li><a href="accounts_proj.html">Accounts</a></li>
+              <li><a href="android.html">Freedom Travel</a></li>
+              <li><a href="zombies.html">Zombies</a></li>
+              <li><a href="pub_list.html">Drinking</a></li>
+            </ul>
+          </li>
+          <li class="selected"><a>Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    
+    
+    <div id="site_content">
+    
+    </div>
+    
+    <footer>
+      <p><a href="http://www.css3templates.co.uk">Site Design By..</a>  |  Hosted by <a href="http://www.appfog.com/">AppFog</a></p>
+    </footer>
+  
+  </div>
+  
+  <p>&nbsp;</p>
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+  <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+  <script type="text/javascript" src="js/jquery.kwicks-1.5.1.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('#images').kwicks({
+        max : 600,
+        spacing : 2
+      });
+      $('ul.sf-menu').sooperfish();
+    });
+  </script>
+</body>
+</html>

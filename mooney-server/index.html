@@ -1,0 +1,136 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Mooney Server</title>
+  <meta name="description" content="Personal website for Brian Mooney" />
+  <meta name="keywords" content="java, blog, mooney, automation" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <!-- modernizr enables HTML5 elements and feature detects -->
+  <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+</head>
+
+<body>
+  <div id="main">
+    
+    <!-- Header Section -->
+    <header>
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <h1><a href="index.html">Mooney<span class="logo_divider_colour"> {: </span>
+		<span class="logo_colour">Server</span>
+	      </a>
+ 	  </h1>
+          <h2>Blog, Experiment and Family Happiness</h2>
+        </div>
+      </div>
+      <nav>
+        <ul class="sf-menu" id="nav">
+          <li class="selected"><a>Home</a></li>
+          <li><a href="family.html">Family</a></li>
+          <li><a href="photography.html">Photography</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="accounts.html">Accounts</a></li>
+          <li><a>Projects</a>
+            <ul>
+              <li><a href="#"></a></li>
+              <li><a href="accounts_proj.html">Accounts</a></li>
+              <li><a href="android.html">Freedom Travel</a></li>
+              <li><a href="zombies.html">Zombies</a></li>
+              <li><a href="pub_list.html">Drinking</a></li>
+            </ul>
+          </li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    
+    <!-- Rolling Image Nav Bar For Home Page -->
+    <div id="site_content">
+      <ul id="images">
+        <li>
+	    <a href="photography.html">
+	        <img src="http://photos5.pix.ie/83/DB/83DB5C4DEB9E483D8B728CC5A588A150-500.jpg" width="600" height="300" alt="photography" />
+		<span>Photography</span>
+            </a>
+        </li>
+        <li>
+	    <a href="projects.html">
+	        <img src="http://photos4.pix.ie/D4/56/D45636B010E440328E2D3E24D37870B9-0000316128-0003119645-00825L-90D09636F23B475A9FB7B0C692B1DD32.jpg" width="600" height="300" alt="code" />
+		<span>Projects</span>
+	    </a>
+	</li>
+        <li>
+	    <a href="pub_list.html">
+		<img src="http://photos2.pix.ie/1A/A6/1AA6DD188F3F46D6BA5C4FE216CCFC63-500.jpg" width="600" height="300" alt="pubs" />
+		<span>Pub List</span>
+	    </a>
+	</li>
+        <li>
+	    <a href="blog.html">
+		<img src="http://photos4.pix.ie/70/10/701022C242BB447A87D431F1A0954F62-500.jpg" width="600" height="300" alt="blog" />
+		<span>Blog</span>
+	    </a>
+	</li>
+        <li>
+	    <a href="android.html">
+		<img src="http://photos4.pix.ie/AC/C0/ACC00C2B866B4601B49255219CFE41FB-0000316128-0003119644-00614L-49C87930D7A94DAB9E4DFB2DBFD5D7E4.jpg" width="600" height="300" alt="android" />
+		<span>Android</span>
+	    </a>
+	</li>
+        <li>
+	    <a href="family.html">
+		<img src="http://photos3.pix.ie/81/6E/816E639DB4304BD0908D27CFD2A74DC6-500.jpg" width="600" height="300" alt="family" />
+		<span>Family</span>
+	    </a>
+	</li>
+      </ul>
+
+    <!-- Page Content -->
+      <div id="sidebar_container">
+        <div class="sidebar">
+          <h3>Cool News</h3>
+          <h4>Ubuntu For Phones</h4>
+          <p>Ubuntu has decided to launch in phones...<br /><a href="#">Read More</a></p>
+        </div>
+
+	<div class="sidebar">
+          <h4>First App Release</h4>
+          <p>
+	      <a href="http://www.freedomtravel.ie">Freedom Travel</a> deal app has been published to the Android market...<br />
+              <a href="#">Read More</a>
+          </p>
+        </div>
+      </div>
+
+      <div class="content">
+        <h1>Welcome to my home website</h1>
+	<p>Blah Blah Blah some random crap about things and stuff...</p>
+      </div>
+    </div>
+    
+    <footer>
+      <p><a href="http://www.css3templates.co.uk">Site Design By..</a>  |  Hosted by <a href="http://www.appfog.com/">AppFog</a></p>
+    </footer>
+  
+  </div>
+  
+  <p>&nbsp;</p>
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+  <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+  <script type="text/javascript" src="js/jquery.kwicks-1.5.1.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('#images').kwicks({
+        max : 600,
+        spacing : 2
+      });
+      $('ul.sf-menu').sooperfish();
+    });
+  </script>
+</body>
+</html>
