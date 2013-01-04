@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <style>
+      /*
+      * Wildcard CSS rule for Popups Styling
+      * Using the important tag to over-rule
+      * the inline styling of the OpenLayer
+      * components 
+      */
+      div[id$="_popup"] {
+        overflow: visible !important;
+        border-radius: 15px !important;
+        background: rgba(190, 190, 190, 0.7) !important; 
+      }
+    </style>
+  </head>
+  
+  <body>
+    <div id="map"></div>
+
+    <script src="http://www.openlayers.org/api/OpenLayers.js"></script>
+    <script>
+      var DUBLIN_LAT  = 53.3428;
+      var DUBLIN_LONG = -6.2661;
+
+      var map = new OpenLayers.Map("map");
+  
+      map.addLayer(new OpenLayers.Layer.OSM());
+      var markers = new OpenLayers.Layer.Text(
+        "text", 
+        {
+          location: "./markers.txt",
+   	  projection: map.displayProjection
+        }
+      );
+  
+      map.addLayer(markers);
+
+      var fromProjection = new OpenLayers.Projection("EPSG:4326");
+      var toProjection   = new OpenLayers.Projection("EPSG:900913");
+      var position = new OpenLayers.LonLat(DUBLIN_LONG, DUBLIN_LAT).transform(fromProjection, toProjection);
+      var zoom = 13;
+  
+      map.setCenter(position, zoom);
+    </script>
+  </body>
+</html>

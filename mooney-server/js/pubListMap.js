@@ -7,12 +7,20 @@ var DUBLIN_LONG = -6.2661;
 
 $(document).ready(function() {
   map = new OpenLayers.Map("pubListMap");
-  var mapnik         = new OpenLayers.Layer.OSM();
-  var fromProjection = new OpenLayers.Projection("EPSG:4326");   // Transform from WGS 1984
-  var toProjection   = new OpenLayers.Projection("EPSG:900913"); // to Spherical Mercator Projection
-  var position       = new OpenLayers.LonLat(DUBLIN_LONG,DUBLIN_LAT).transform( fromProjection, toProjection);
-  var zoom           = 14; 
+  
+  map.addLayer(new OpenLayers.Layer.OSM());
+  var markers = new OpenLayers.Layer.Text(
+    "text", {
+             location: "./markers.txt",
+   	     projection: map.displayProjection
+            }
+  );
+  
+  map.addLayer(markers);
 
-  map.addLayer(mapnik);  
+  var fromProjection = new OpenLayers.Projection("EPSG:4326");
+  var toProjection   = new OpenLayers.Projection("EPSG:900913");
+  var position = new OpenLayers.LonLat(DUBLIN_LONG, DUBLIN_LAT).transform(fromProjection, toProjection);
+  var zoom = 13;
   map.setCenter(position, zoom);
 });
