@@ -1,0 +1,132 @@
+lat	lon	title	description	iconSize	iconOffset	icon
+53.33972	-6.25886	Dawson Lounge	Smallest Pub In Ireland	21,25	-10,-25	images/beer.png
+53.32900	-6.23036	Paddy Cullens	Rugger Bar, but not bad	21,25	-10,-25	images/beer.png
+53.32905	-6.23048	Crowes Pub	Can't Remember. Possibly Drunk	21,25	-10,-25	images/beer.png
+53.33387	-6.24527	The Wellington	Decent Boozer. On the Lansdowne route.	21,25	-10,-25	images/beer.png
+53.33332	-6.24303	Searsons	Cock Pub. Think its closed.	21,25	-10,-25	images/beer.png
+53.33788	-6.24276	Scruffy Murphys	Good Pub for pre Ireland match drinks. Always a decent crowd and sometimes free nibbles	21,25	-10,-25	images/beer.png
+53.33837	-6.24317	Oil Can Harrys	Quiet Pub, nice feel to it.	21,25	-10,-25	images/beer.png
+53.34418	-6.24910	The Lombard	Near Pearse St Dart station. Not mad about it.	21,25	-10,-25	images/beer.png
+53.34688	-6.25551	Mulligans	Auld farts pub. Usually a good crowd	21,25	-10,-25	images/beer.png
+53.34741	-6.25589	White Horse	Meh... More of a restaurant bar	21,25	-10,-25	images/beer.png
+53.34511	-6.27575	O'Sheas The Merchant	Went in here for a relief pint after the horrifying experience that was The Brazen Head. FUCK YOU AMERICANS	21,25	-10,-25	images/beer.png
+53.34568	-6.25753	Doyles	Cunt Pub Cunt Pub Cunt Pub	21,25	-10,-25	images/beer.png
+53.33164	-6.26441	George Bernard Shaw	Decent Bar. Pitchers of Buckfast. Ouch	21,25	-10,-25	images/beer.png
+53.34685	-6.25914	Fitzgeralds	Da Mhamais hangout	21,25	-10,-25	images/beer.png
+53.34583	-6.26346	Ha'penny Bridge Inn	Good Pub. Sometimes have blues lads upstairs	21,25	-10,-25	images/beer.png
+53.35004	-6.25088	Kates Cottage	Decent Pub. Think its been renamed.	21,25	-10,-25	images/beer.png
+53.34385	-6.26064	O'Neills	Bit of a tourist pub. But not the worst	21,25	-10,-25	images/beer.png
+53.33814	-6.25395	O'Donoghues	Good Pub. Proper bar and good night life in the lounge	21,25	-10,-25	images/beer.png
+53.34029	-6.31680	McDowells	Supersaints Pub. nuff said	21,25	-10,-25	images/beer.png
+53.33965	-6.32089	Black Lion	Good banter after a game	21,25	-10,-25	images/beer.png
+53.33687	-6.24896	Larry Murphys	Decent Boozer. A bit isolated	21,25	-10,-25	images/beer.png
+53.33057	-6.26059	The Barge	Great place to sit on the canal with a pint on a warm day	21,25	-10,-25	images/beer.png
+53.36753	-6.25564	Fagans	Berties local ;-)	21,25	-10,-25	images/beer.png
+53.34020	-6.31509	Taveys	Real nice pub. laptop for a jukebox...	21,25	-10,-25	images/beer.png
+53.34227	-6.33976	The Laurence	Has been done up to look like faux Irish pub. tut tut	21,25	-10,-25	images/beer.png
+53.34490	-6.26794	The Czech Inn	Czech Beer and Disco Bar...	21,25	-10,-25	images/beer.png
+53.34479	-6.26767	Turks Head	Samba lessons downstairs. WTF	21,25	-10,-25	images/beer.png
+53.35230	-6.26041	Living Room	Great Sports Bar	21,25	-10,-25	images/beer.png
+53.34508	-6.26595	Purty Kitchen	Ok bar. Usually has some music	21,25	-10,-25	images/beer.png
+53.33582	-6.25632	Houricans	Small Pub off Stephens Green. Good Atmosphere	21,25	-10,-25	images/beer.png
+53.33435	-6.26506	Cassidys	Think this pub might be gone now	21,25	-10,-25	images/beer.png
+53.34638	-6.25678	Chaplains	Small Pub across from the Cinema. Me Da had his Stag there	21,25	-10,-25	images/beer.png
+53.33389	-6.26494	The Bleedin' Horse	Not Bad. Gets a big office crowd	21,25	-10,-25	images/beer.png
+53.34049	-6.26123	Sinnots Bar	Downstairs Pub. Good for matches	21,25	-10,-25	images/beer.png
+53.34449	-6.26304	Citi Bar	COCKtail bar, wont be returning	21,25	-10,-25	images/beer.png
+53.34428	-6.26398	Mercantile	Weird. Looks like an old Palace or something. Well. A palace that sells beer	21,25	-10,-25	images/beer.png
+53.35268	-6.26135	Murrays	Right in the heart. Good for football	21,25	-10,-25	images/beer.png
+53.34133	-6.26357	The Hairy Lemon	Decent Pub. Good Area.	21,25	-10,-25	images/beer.png
+53.34116	-6.26357	Peters Pub	Cant remember. Possibly drunk	21,25	-10,-25	images/beer.png
+53.34594	-6.25949	Buskers Bar	Popular Dubs hangout	21,25	-10,-25	images/beer.png
+53.34373	-6.26539	Brogans	Tis a pub	21,25	-10,-25	images/beer.png
+53.34180	-6.26031	Bruxelles	Check out the Phillo tribute	21,25	-10,-25	images/beer.png
+53.34575	-6.25486	McTurtles	Too big. No atmosphere	21,25	-10,-25	images/beer.png
+53.34758	-6.34598	The Bridge Inn	Good for a pint while waiting for the bus after a Pats match	21,25	-10,-25	images/beer.png
+53.35830	-6.27324	The Red Windmill	Kev: "Worst Pint ever!"	21,25	-10,-25	images/beer.png
+53.35811	-6.26337	Kavanaghs	Pre Irish Match Pint when they played in Croker	21,25	-10,-25	images/beer.png
+53.33937	-6.24144	Becky Morgans	Small Pub. Good Atmosphere. Good Paninis	21,25	-10,-25	images/beer.png
+53.36649	-6.27114	The Botanic House	Uncle Ronnie!	21,25	-10,-25	images/beer.png
+53.33728	-6.23357	The Lansdowne	Small Pub. Good atmosphere. Great before a Lansdowne match	21,25	-10,-25	images/beer.png
+53.35077	-6.25336	Mother Kellys	Got the Pints but they didnt have any t-shirts	21,25	-10,-25	images/beer.png
+53.33356	-6.25527	Kobra Bar	Cock Pub. Only went to crash the ESB Christmas Party.	21,25	-10,-25	images/beer.png
+53.33855	-6.25307	Foleys	Famous Persons haunt. We didnt see any. Nice pub.	21,25	-10,-25	images/beer.png
+53.34484	-6.25245	O'Neills	Put it off for ages because we thought it was closed. May actually be closed now	21,25	-10,-25	images/beer.png
+53.35057	-6.26802	Woolshed	Aussie Bar. Good seelction of beers. Great for sport	21,25	-10,-25	images/beer.png
+53.34217	-6.25076	Kennedys	Cunt Pub. Refused Kev for being a scummer. Shall never return	21,25	-10,-25	images/beer.png
+53.36716	-6.25568	Kennedys	Pre Croker/Shells matches	21,25	-10,-25	images/beer.png
+53.34449	-6.26304	The Foggy Dew	Kev doesnt like. I do. Contentious	21,25	-10,-25	images/beer.png
+53.29352	-6.13341	Gastro Pub	More Restaurant than pub. But we were desperate for a pint...	21,25	-10,-25	images/beer.png
+53.33978	-6.31906	Tommy Croughs	New Pub in Inchicore. A bit too nice looking	21,25	-10,-25	images/beer.png
+53.33739	-6.23204	Murrays	Maybe only opens for matches	21,25	-10,-25	images/beer.png
+53.33665	-6.23665	The Beggars Bush	Decent Old Looking Pub. Good for a pre match pint. Not too dear	21,25	-10,-25	images/beer.png
+53.33716	-6.23415	The Shelbourne House	Aliens once abducted Tom from the Bar	21,25	-10,-25	images/beer.png
+53.34821	-6.26817	Slatterys	Early House on Capel St. Decent	21,25	-10,-25	images/beer.png
+53.33716	-6.23415	Slatterys	Dont like it. Worst of the pubs near Lansdowne	21,25	-10,-25	images/beer.png
+53.34940	-6.24291	Laguna	The Reason Kev flunked out of NCI	21,25	-10,-25	images/beer.png
+53.34532	-6.24871	Windjammer	Classic Old Pub. Watched Michael Jacksons Funeral there	21,25	-10,-25	images/beer.png
+53.34970	-6.24897	The Harbour Master	Decent Deals an Savage KPMG burds	21,25	-10,-25	images/beer.png
+53.32826	-6.22846	Madigans	Nice Pub considering the location	21,25	-10,-25	images/beer.png
+53.33218	-6.23451	The Dubliner	Big Pre Croker Pub	21,25	-10,-25	images/beer.png
+53.33791	-6.25264	Toners	Good old looking pub, right in the heart	21,25	-10,-25	images/beer.png
+53.33592	-6.25669	Hartigans	Real classic feel. school desk for tables. Good Pub	21,25	-10,-25	images/beer.png
+53.34400	-6.26246	Bankers	Small Pub. Comedy Club as well.	21,25	-10,-25	images/beer.png
+53.38346	-6.41734	Clonsilla Inn	Big Place. Carvery and shit	21,25	-10,-25	images/beer.png
+53.35852	-6.41888	The Foxhunter	Closed now I believe.	21,25	-10,-25	images/beer.png
+53.35706	-6.25023	Sunset House	They dont trust you with glasses. Says it all really	21,25	-10,-25	images/beer.png
+53.35705	-6.26456	The Findlater	Small Pub. Good for pre Croker meetups	21,25	-10,-25	images/beer.png
+53.32941	-6.23141	Bellamys	Red Pub. Worst in Ballsbridge	21,25	-10,-25	images/beer.png
+53.34195	-6.24967	The Ginger Man	Masters students hangout. No thanks.	21,25	-10,-25	images/beer.png
+53.34830	-6.25686	The Pint!	Nice Pub. Bit out of the way of the tourist trap	21,25	-10,-25	images/beer.png
+53.34875	-6.25758	Lannigan Plough	Good for a few post theatre pints	21,25	-10,-25	images/beer.png
+53.34617	-6.25959	The Gin Palace	Big Pub. Base yourself here and get nibbles from the Epicurean Food Hall	21,25	-10,-25	images/beer.png
+53.34875	-6.25758	The Flowing Tide	They have old kegs for tables. Wahey!	21,25	-10,-25	images/beer.png
+53.37246	-6.33114	The Halfway House	Kev was uncomfortable	21,25	-10,-25	images/beer.png
+53.38736	-6.06617	The Cock Tavern	Nice Pub. Has some local Phillo History	21,25	-10,-25	images/beer.png
+53.34187	-6.25864	The Duke	Gets a good work crowd. Nice and cramped so nonchelant ass grabs can occur	21,25	-10,-25	images/beer.png
+53.35736	-6.26359	The Temple	They have burger and chips. Big place	21,25	-10,-25	images/beer.png
+53.34596	-6.24050	Ferryman	Nice Pub. Spent the first Arthurs Day there	21,25	-10,-25	images/beer.png
+53.34154	-6.25943	John Keoghs	Gets very busy with shoppers	21,25	-10,-25	images/beer.png
+53.35679	-6.27394	McGowans	Nurses Hangout. Frequent before Boez Scum matches	21,25	-10,-25	images/beer.png
+53.34384	-6.26275	Dame Tavern	Tiny place. Drink on the streets when its busy	21,25	-10,-25	images/beer.png
+53.33516	-6.26355	Diceys Garden	Right beside Coppers... Not really a pub	21,25	-10,-25	images/beer.png
+53.34395	-6.26382	The Stags Head	Decent pub. Old style feel and a newer downstairs	21,25	-10,-25	images/beer.png
+53.34435	-6.26490	Peader Kearneys	Really nice pub. Always good for a bit of music	21,25	-10,-25	images/beer.png
+53.34436	-6.26718	Thomas Read	Cant remember it. Damn gargle dimmed brain	21,25	-10,-25	images/beer.png
+53.34651	-6.26763	Nealons	Decent Pub. Classic feel to it	21,25	-10,-25	images/beer.png
+53.34737	-6.26822	The Boars Head	Small bar. Good for a few pints and a natter	21,25	-10,-25	images/beer.png
+53.34775	-6.26814	McNeills	Honestly thought this place was a music shop	21,25	-10,-25	images/beer.png
+53.34856	-6.26399	The Lotts	Must have been pissed. I cant remember it	21,25	-10,-25	images/beer.png
+53.34727	-6.25410	O'Reillys	Rock bar sporting the wheel of death. Right under a tara street station as well, so a good atmosphere	21,25	-10,-25	images/beer.png
+53.34323	-6.24369	Green Room	Generic hotel bar. Not Great	21,25	-10,-25	images/beer.png
+53.34572	-6.27142	Fibbers Rock Bar	The New Fibbers on the Quays. Grand if you fancy a bit of Metal with ur pint	21,25	-10,-25	images/beer.png
+53.34574	-6.27232	Legal Eagle	Went in hoping to see some high class lawyer pussy. Alas, none was forthcoming	21,25	-10,-25	images/beer.png
+53.35146	-6.24884	The Vault	Under Connolly train station. Good drink deals	21,25	-10,-25	images/beer.png
+53.34861	-6.26024	The Oval	Nice old feel to the bar. Nip in when the Mrs is off shopping	21,25	-10,-25	images/beer.png
+53.35875	-6.27320	Phibsboro House	Nip in for a quick one before the Boez game	21,25	-10,-25	images/beer.png
+53.36091	-6.27307	The Bohemian	Another one before a Boez game	21,25	-10,-25	images/beer.png
+53.40161	-6.24174	Swiss Cottage	Pints before a Pats match against Sporting Fingal. Unfortunately they went out of business (the football club I mean)	21,25	-10,-25	images/beer.png
+53.34174	-6.30756	The Patriots	So close to Inchicore yet it took us ages to do it.	21,25	-10,-25	images/beer.png
+53.32905	-6.23047	Mary Macs	In good company. Good for pre Lansdowne or RDS meetup	21,25	-10,-25	images/beer.png
+53.32170	-6.23525	Longs	Donnybrook pub. At least its not as bad as the other ones	21,25	-10,-25	images/beer.png
+53.32221	-6.23656	Kielys	Ughh. Did it just to get it off the list	21,25	-10,-25	images/beer.png
+53.35493	-6.25723	Hill 16	Always great craic before a Dubs match	21,25	-10,-25	images/beer.png
+53.35905	-6.26173	Auld Triangle	Went jingle Jangle	21,25	-10,-25	images/beer.png
+53.35979	-6.26093	The Big Tree	Good auld pub on a busy street for good pubs	21,25	-10,-25	images/beer.png
+53.35039	-6.25287	Robert Reade	Waiting for the Bus? Have a pint!	21,25	-10,-25	images/beer.png
+53.36105	-6.25966	The Red Parrot	Classic auld boozer	21,25	-10,-25	images/beer.png
+53.34064	-6.26551	JJ Smyths	Good bar for a bit of blues upstairs. Fairly small though	21,25	-10,-25	images/beer.png
+53.34205	-6.26463	Hogans	Big enough bar. Was most likely pissed when I was there	21,25	-10,-25	images/beer.png
+53.34172	-6.22777	The Oarsman	Nice boozer. Close to lansdowne and a good local atmosphere	21,25	-10,-25	images/beer.png
+53.34084	-6.24478	Doolans	Can find many a proud man wetting the babys head in here	21,25	-10,-25	images/beer.png
+53.33463	-6.24243	The 51	Tis a pub with beer. good enough by me	21,25	-10,-25	images/beer.png
+53.24518	-6.13497	The Silver Tassie	Ah the Tassie... Possibly the Best Pub in the world... Ever...	21,25	-10,-25	images/beer.png
+53.33477	-6.24345	Smyths	What can I say... Its across the road from 51	21,25	-10,-25	images/beer.png
+53.35719	-6.45023	Kennys	Nice Pub. Kind of a food place though	21,25	-10,-25	images/beer.png
+53.35541	-6.45450	Ball Alley House	Dont drive home drunk from this place	21,25	-10,-25	images/beer.png
+53.35626	-6.45023	Courtneys	Right next door to a Garda station. How are you meant to enjoy a late pint in peace?	21,25	-10,-25	images/beer.png
+53.34003	-6.22353	Doyles	Pre match pint. Was a bit of a shithole	21,25	-10,-25	images/beer.png
+53.34235	-6.22783	The Yacht	Like having a pint in someones living room.	21,25	-10,-25	images/beer.png
+53.34339	-6.24485	Padraig Pearse	A real local...	21,25	-10,-25	images/beer.png
+53.35128	-6.25035	Graingers	Near to Connolly train station	21,25	-10,-25	images/beer.png
+
