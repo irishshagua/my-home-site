@@ -20,3 +20,15 @@ RewriteCond %{REQUEST_URI} !/$
 # Redirect to the php script with the requested filename
 RewriteRule (.*) $1\.php [L]
 
+
+#################################
+# Set File Level Permissions
+#################################
+# Want to force reload of pub list
+# as updates to the markers txt file
+# may not prompt a browser page request
+<Files "pub_list.php">
+  Header set Cache-Control "no-cache, must-revalidate"
+  Header set Pragma no-cache
+</Files>
+
