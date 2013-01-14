@@ -28,7 +28,7 @@ lat	lon	title	description	iconSize	iconOffset	icon
 53.34479	-6.26767	Turks Head	Samba lessons downstairs. WTF	21,25	-10,-25	images/beer.png
 53.35230	-6.26041	Living Room	Great Sports Bar	21,25	-10,-25	images/beer.png
 53.34508	-6.26595	Purty Kitchen	Ok bar. Usually has some music	21,25	-10,-25	images/beer.png
-53.33582	-6.25632	Houricans	Small Pub off Stephens Green. Good Atmosphere	21,25	-10,-25	images/beer.png
+53.33572	-6.25680	Houricans	Small Pub off Stephens Green. Good Atmosphere	21,25	-10,-25	images/beer.png
 53.33435	-6.26506	Cassidys	Think this pub might be gone now	21,25	-10,-25	images/beer.png
 53.34638	-6.25678	Chaplains	Small Pub across from the Cinema. Me Da had his Stag there	21,25	-10,-25	images/beer.png
 53.33389	-6.26494	The Bleedin' Horse	Not Bad. Gets a big office crowd	21,25	-10,-25	images/beer.png
@@ -131,4 +131,5 @@ lat	lon	title	description	iconSize	iconOffset	icon
 53.35128	-6.25035	Graingers	Near to Connolly train station	21,25	-10,-25	images/beer.png
 53.35298	-6.26088	Hop House	Mix of Koreans and Dubs. Kinda weird. But still cool. Has a Korean Restaurant as well.	21,25	-10,-25	images/beer.png
 53.31813	-6.51871	The Hatch	Lovely setting but a few too many land rovers for my liking	21,25	-10,-25	images/beer.png
+53.34268	-6.25281	The Pavillion	Surrounded by Trinners Winners... Wahey!	21,25	-10,-25	images/beer.png
 
