@@ -52,7 +52,7 @@ lat	lon	title	description	iconSize	iconOffset	icon
 53.33356	-6.25527	Kobra Bar	Cock Pub. Only went to crash the ESB Christmas Party.	21,25	-10,-25	images/beer.png
 53.33855	-6.25307	Foleys	Famous Persons haunt. We didnt see any. Nice pub.	21,25	-10,-25	images/beer.png
 53.34484	-6.25245	O'Neills	Put it off for ages because we thought it was closed. May actually be closed now	21,25	-10,-25	images/beer.png
-53.35057	-6.26802	Woolshed	Aussie Bar. Good seelction of beers. Great for sport	21,25	-10,-25	images/beer.png
+53.35028	-6.26713	Woolshed	Aussie Bar. Good seelction of beers. Great for sport	21,25	-10,-25	images/beer.png
 53.34217	-6.25076	Kennedys	Cunt Pub. Refused Kev for being a scummer. Shall never return	21,25	-10,-25	images/beer.png
 53.36716	-6.25568	Kennedys	Pre Croker/Shells matches	21,25	-10,-25	images/beer.png
 53.34449	-6.26304	The Foggy Dew	Kev doesnt like. I do. Contentious	21,25	-10,-25	images/beer.png
@@ -129,4 +129,6 @@ lat	lon	title	description	iconSize	iconOffset	icon
 53.34235	-6.22783	The Yacht	Like having a pint in someones living room.	21,25	-10,-25	images/beer.png
 53.34339	-6.24485	Padraig Pearse	A real local...	21,25	-10,-25	images/beer.png
 53.35128	-6.25035	Graingers	Near to Connolly train station	21,25	-10,-25	images/beer.png
+53.35298	-6.26088	Hop House	Mix of Koreans and Dubs. Kinda weird. But still cool. Has a Korean Restaurant as well.	21,25	-10,-25	images/beer.png
+53.31813	-6.51871	The Hatch	Lovely setting but a few too many land rovers for my liking	21,25	-10,-25	images/beer.png
 
