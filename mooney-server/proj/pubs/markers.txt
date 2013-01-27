@@ -132,4 +132,5 @@ lat	lon	title	description	iconSize	iconOffset	icon
 53.35298	-6.26088	Hop House	Mix of Koreans and Dubs. Kinda weird. But still cool. Has a Korean Restaurant as well.	21,25	-10,-25	images/beer.png
 53.31813	-6.51871	The Hatch	Lovely setting but a few too many land rovers for my liking	21,25	-10,-25	images/beer.png
 53.34268	-6.25281	The Pavillion	Surrounded by Trinners Winners... Wahey!	21,25	-10,-25	images/beer.png
+53.34666	-6.29275	The Galway Hooker	Grand for a few pints before the train. A bit pricey...	21,25	-10,-25	images/beer.png
 
