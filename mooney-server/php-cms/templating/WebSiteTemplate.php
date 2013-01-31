@@ -4,18 +4,40 @@ include 'SitePageMeta.php';
 
 class WebSiteTemplate {
 
-  public static function get_basic_head() {
-    $head = '<head>
+  public static function get_basic_head($add_js_libs = null, $add_css_libs = null) {
+    $cust_js_libs = "";
+    $cust_css_libs = "";
+
+    if ($add_js_libs != null) {
+      foreach ($add_js_libs as $lib) {
+        $cust_js_libs = $cust_js_libs . "<script type='text/javascript' src='$lib'></script>\n";
+      }
+    }
+
+    if ($add_css_libs != null) {
+      foreach ($add_css_libs as $lib) {
+        $cust_css_libs = $cust_css_libs . "<link rel='stylesheet' type='text/css' href='$lib'/>\n";
+      }
+    }
+
+
+    $head = "<head>
                <title>Mooney Server</title>
-               <meta name="description" content="Personal website for Brian Mooney" />
-               <meta name="keywords" content="java, blog, mooney, automation" />
-               <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+               <meta name='description' content='Personal website for Brian Mooney' />
+               <meta name='keywords' content='java, blog, mooney, automation' />
+               <meta http-equiv='content-type' content='text/html; charset=UTF-8' />
   
-               <link rel="stylesheet" type="text/css" href="css/style.css" />
-  
+               <link rel='stylesheet' type='text/css' href='css/style.css' />
+               <!-- Page specific CSS entries go here -->
+               $cust_css_libs
+
                <!-- modernizr enables HTML5 elements and feature detects -->
-               <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
-             </head>';
+               <script type='text/javascript' src='js/jquery.js'></script>
+               <script type='text/javascript' src='js/modernizr-1.5.min.js'></script>
+               
+               <!-- Page specific JS entries go here -->
+               $cust_js_libs
+             </head>";
 
     return $head;
   }
@@ -82,8 +104,7 @@ class WebSiteTemplate {
   * page load performance.
   */
   public static function get_tail_loaded_js() {
-    $tail_js =  '<script type="text/javascript" src="js/jquery.js"></script>
-                 <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+    $tail_js =  '<script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
                  <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
                  <script type="text/javascript" src="js/jquery.kwicks-1.5.1.js"></script>
                  <script type="text/javascript">

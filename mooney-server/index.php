@@ -13,16 +13,16 @@
     <div id="site_content">
       <ul id="images">
         <li>
-	    <a href="photography">
-	        <img src="http://photos5.pix.ie/83/DB/83DB5C4DEB9E483D8B728CC5A588A150-500.jpg" width="600" height="300" alt="photography" />
-		<span>Photography</span>
-            </a>
+	  <a href="photography">
+            <img src="http://photos5.pix.ie/83/DB/83DB5C4DEB9E483D8B728CC5A588A150-500.jpg" width="600" height="300" alt="photography" />
+            <span>Photography</span>
+          </a>
         </li>
         <li>
-	    <a href="projects">
-	        <img src="http://photos4.pix.ie/D4/56/D45636B010E440328E2D3E24D37870B9-0000316128-0003119645-00825L-90D09636F23B475A9FB7B0C692B1DD32.jpg" width="600" height="300" alt="code" />
-		<span>Projects</span>
-	    </a>
+	  <a href="projects">
+	    <img src="http://photos4.pix.ie/D4/56/D45636B010E440328E2D3E24D37870B9-0000316128-0003119645-00825L-90D09636F23B475A9FB7B0C692B1DD32.jpg" width="600" height="300" alt="code" />
+            <span>Projects</span>
+	  </a>
 	</li>
         <li>
 	    <a href="pub_list">
@@ -69,7 +69,7 @@
 
       <div class="content">
         <h1>Welcome to my home website</h1>
-	<p>Blah Blah Blah some random crap about things and stuff...</p>
+	  <p>This is basically just a playground for messing around with things. Its very much a <i>Work In Progress</i>, hence the shitness.</p>
       </div>
     </div>
     
