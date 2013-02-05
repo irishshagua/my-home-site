@@ -32,3 +32,8 @@ RewriteRule (.*) $1\.php [L]
   Header set Pragma no-cache
 </Files>
 
+
+#################################
+# Error Documents
+#################################
+ErrorDocument 404 /404.php
