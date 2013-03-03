@@ -2,8 +2,8 @@
   include 'php-cms/templating/WebSiteTemplate.php';
   
   # Check the current build status
-  $process = curl_init("https://gradletest-mooneyserver.rhcloud.com/job/Gradle_Accounts_build/lastBuild/api/json");
-  curl_setopt($process, CURLOPT_USERPWD, "observer:83b6ec208dba4c8571410c7aed42c95e");
+  $process = curl_init("https://jenkins-mooneyserver.rhcloud.com/job/accounts-build/lastBuild/api/json");
+  curl_setopt($process, CURLOPT_USERPWD, "observer:47489c71eb38ffd7ce85a28c37205a72");
   curl_setopt($process, CURLOPT_TIMEOUT, 20);
   curl_setopt($process, CURLOPT_RETURNTRANSFER, TRUE);
   
@@ -35,7 +35,7 @@
   ?>
   <body>
     <div id="ci-dialog" title="Accounts Build Status">
-        <h4><a href="https://gradletest-mooneyserver.rhcloud.com/" target="_blank">Jenkins</a> Build Status</h4>
+        <h4><a href="https://jenkins-mooneyserver.rhcloud.com/" target="_blank">Jenkins</a> Build Status</h4>
         <p><a href="<? echo $build_url ?>" target="_blank">Accounts Build</a>:
           <ul>
             <li>Status: <? echo $build_result ?></li>
@@ -49,7 +49,7 @@
     
       <div id="site_content">
         <!-- Page Specific Content Goes Here -->
-        <p>This is a project to create a home accounts system. The app can be viewed <a href="/accounts">here</a> and is hosted on <a href="https://openshift.redhat.com">OpenShift</a>. The build system is currently controlled by <a href="https://gradletest-mooneyserver.rhcloud.com" target="_blank">Jenkins</a>. I'll update all this crap properly later...</p>
+        <p>This is a project to create a home accounts system. The app can be viewed <a href="/accounts">here</a> and is hosted on <a href="https://openshift.redhat.com">OpenShift</a>. The build system is currently controlled by <a href="https://jenkins-mooneyserver.rhcloud.com" target="_blank">Jenkins</a>. I'll update all this crap properly later...</p>
         
         <h3>Build Status</h3>
         <p id="check-build-btn" style="float: right; cursor: hand; cursor: pointer;">
