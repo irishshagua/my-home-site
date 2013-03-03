@@ -133,4 +133,6 @@ lat	lon	title	description	iconSize	iconOffset	icon
 53.31813	-6.51871	The Hatch	Lovely setting but a few too many land rovers for my liking	21,25	-10,-25	images/beer.png
 53.34268	-6.25281	The Pavillion	Surrounded by Trinners Winners... Wahey!	21,25	-10,-25	images/beer.png
 53.34666	-6.29275	The Galway Hooker	Grand for a few pints before the train. A bit pricey...	21,25	-10,-25	images/beer.png
+53.34135	-6.45184	The Lord Lucan	Big Roomy Pub in the middle of a soulless megaestate	21,25	-10,-25	images/beer.png
+53.28195	-6.46564	Muldowneys	Nice local Big pub	21,25	-10,-25	images/beer.png
 
