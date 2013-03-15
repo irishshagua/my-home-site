@@ -213,6 +213,12 @@ nav {
   float: right;
   width: 224px;
   margin: 25px 0 0 0;
+  
+  border-style: ridge;
+  border-radius: 15px;
+  background-image: -moz-radial-gradient(center, circle farthest-side, #D5DEF2 0%, #212A9E 100%);
+  background-image: -o-radial-gradient(center, circle farthest-side, #D5DEF2 0%, #212A9E 100%);
+  background-image: -webkit-radial-gradient(center, circle farthest-side, #D5DEF2 0%, #212A9E 100%);
 }
 
 .sidebar { 
@@ -231,9 +237,19 @@ nav {
 }
 
 .sidebar h3 { 
-  color: #444;
+  text-align: center; 
+  color: black;
   font: 250% 'News Cycle', arial, sans-serif;
   padding: 0 15px 5px 0;
+}
+
+.sidebar h4 {  
+  color: blue;
+  font-weight: bold;
+}
+
+.sidebar p {  
+  color: black;
 }
 
 .sidebar ul { 

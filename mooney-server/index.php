@@ -58,7 +58,7 @@
           <p>Ubuntu has decided to launch in phones...<br /><a href="#">Read More</a></p>
         </div>
 
-	<div class="sidebar">
+	    <div class="sidebar">
           <h4>First App Release</h4>
           <p>
 	      <a href="http://www.freedomtravel.ie">Freedom Travel</a> deal app has been published to the Android market...<br />
