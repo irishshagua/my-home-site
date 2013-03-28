@@ -135,4 +135,7 @@ lat	lon	title	description	iconSize	iconOffset	icon
 53.34666	-6.29275	The Galway Hooker	Grand for a few pints before the train. A bit pricey...	21,25	-10,-25	images/beer.png
 53.34135	-6.45184	The Lord Lucan	Big Roomy Pub in the middle of a soulless megaestate	21,25	-10,-25	images/beer.png
 53.28195	-6.46564	Muldowneys	Nice local Big pub	21,25	-10,-25	images/beer.png
+53.33243	-6.21540	Sandymount House	Not bad, maybe a bit snobby but had a nice fire and decent pints	21,25	-10,-25	images/beer.png
+53.33301	-6.21613	Mulligans	Fuckin Piano Bar, didnt like the buzz of this place	21,25	-10,-25	images/beer.png
+53.32104	-6.39261	The Laurels	Good Size Pub, Decent crowd in on a Sunday. Too many floor staff though..	21,25	-10,-25	images/beer.png
 
