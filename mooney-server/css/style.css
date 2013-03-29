@@ -26,8 +26,11 @@ article, aside, figure, footer, header, hgroup, nav, section {
 
 body { 
   font: normal .80em arial, sans-serif;
-  background: #eeeeee url(../images/pattern.png);
-  color: #444;
+  /* background: #eeeeee url(../images/pattern.png); */
+  /* color: #444; */
+  background: #EEEFE4;
+  background-image:url(../images/background.png);
+  background-repeat:repeat-x;
 }
 
 p { 
@@ -203,11 +206,11 @@ nav {
 } 
 
 #site_content { 
-  width: 940px;
   overflow: hidden;
   margin: 0px auto 0 auto;
-  padding: 15px 0 15px 0;
-} 
+  padding: 15px 15px 15px 15px;
+  background-color: rgb(255, 255, 255);
+}
 
 #sidebar_container { 
   float: right;
@@ -417,7 +420,7 @@ table tr td {
 
 /* Image Transitions */
 ul#images {
-  margin: 0 15px 10px 0;
+  margin: -15px 0px 0px -15px;
   padding: 0;
   list-style: none;
   position: relative;
@@ -581,7 +584,7 @@ ul#nav ul li a:hover {
 
 /* Image Transitions */
 ul#images {
-  margin: 0 15px 10px 0;
+  margin: -15px 0px 0px -15px;
   padding: 0;
   position: relative;
 }
