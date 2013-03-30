@@ -47,7 +47,7 @@ class WebSiteTemplate {
     $nav_bar =  '<header>
                   <div id="logo">
                     <div id="logo_text">
-                      <h1><a href="index.html">Mooney<span class="logo_divider_colour"> {: </span>
+                      <h1><a href="index">Mooney<span class="logo_divider_colour"> {: </span>
 		            <span class="logo_colour">Server</span>
 	                  </a>
  	              </h1>
