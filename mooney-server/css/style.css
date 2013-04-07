@@ -205,6 +205,11 @@ nav {
   -webkit-border: 7px 7px 7px 7px;
 } 
 
+ul#nav li ul {
+  border-bottom-right-radius: 15px; 
+  border-bottom-left-radius: 15px; 
+}
+
 #site_content { 
   overflow: hidden;
   margin: 0px auto 0 auto;
