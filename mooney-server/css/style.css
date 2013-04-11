@@ -680,3 +680,31 @@ ul.toggle li.selected {
   background-color: #FFBABA;
   background-image: url('../images/dialog_error.png');
 }
+
+/* Add blog stylings */
+div.blog-entry {
+	margin: 3px;
+}
+div.blog-entry img{
+	margin: 3px;
+	padding:1px;
+   	border:1px solid #021a40;
+   	background-color: rgb(255, 25, 146);
+   	border-radius: 5px;
+}
+
+div.blog-meta {
+	margin-top: -20px;
+	margin-bottom: 15px;
+	background-color: grey;
+	border-radius: 4px;
+	width: 100%;
+}
+
+div.blog-meta span {
+	font-family: "Courier New";
+	font-size: x-small;
+	font-weight: bold;
+	color: #FFA500;
+	margin-left: 20px;
+}

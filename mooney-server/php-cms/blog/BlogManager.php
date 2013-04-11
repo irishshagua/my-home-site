@@ -27,8 +27,11 @@
 				return Notification::show_error("Could not find meta data associated with [$blog_name]");
 			}
 			
-			return BlogManager::convert_filename_to_heading($blog_name) 
-					. file_get_contents( $content_file );
+			return BlogManager::convert_filename_to_heading($blog_name) . 
+				   BlogManager::grab_meta_data_from_entry($meta_file) . 
+				   "<div class='blog-entry'>" .
+				   file_get_contents( $content_file ) .
+				   "</div>";
 		}
 		
 		/**
@@ -52,6 +55,16 @@
 		
 		private static function convert_filename_to_heading($blog_name) {
 			return "<h2><a href='blog?entry=$blog_name'>" . ucwords(str_replace("_", " ", $blog_name)) . "</a></h2>";
+		}
+		
+		private static function grab_meta_data_from_entry($meta_file) {
+			$meta_data = json_decode(file_get_contents($meta_file));
+			
+			return "<div class='blog-meta'><span>Entry Date: " .
+					$meta_data->{'meta'}->{'entry-month'} .
+					", " .
+					$meta_data->{'meta'}->{'entry-year'} .
+					"</span></div>";
 		}
 	}
 ?>
